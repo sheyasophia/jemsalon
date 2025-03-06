@@ -8,33 +8,13 @@
   margin-top: 10px;
 }
 
-.heroes-container {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.heroes-container .btn-book {
-  color: white;
-}
-
 .heroes-container h1,
 h2 {
   font-family: "Luxia";
 }
 
-.home {
-  position: relative;
-  bottom: 150px;
-}
-
 span {
   color: #ffca2c;
-}
-
-.about-us {
-  margin-bottom: 100px;
 }
 
 .aboutus-name {
