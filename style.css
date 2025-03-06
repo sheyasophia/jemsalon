@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "Luxia";
+  src: url(luxiaBold.otf);
+}
+
+.jem-logo {
+  margin-left: 40px;
+  margin-top: 10px;
+}
+
+.heroes-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heroes-container .btn-book {
+  color: white;
+}
+
+.heroes-container h1,
+h2 {
+  font-family: "Luxia";
+}
+
+.home {
+  position: relative;
+  bottom: 150px;
+}
+
+span {
+  color: #ffca2c;
+}
+
+.about-us {
+  margin-bottom: 100px;
+}
+
+.aboutus-name {
+  padding-top: 30px;
+}
+
+.aboutus-description {
+  padding: 100px 70px 0 70px;
+}
+
+.aboutus-description h2 {
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 70px;
+}
+
+.aboutus-title {
+  color: #ffca2c;
+  font-style: italic;
+}
+
+.feature {
+  text-align: center;
+}
+
+.our-services {
+  margin-bottom: 100px;
+}
+
+.services-img {
+  border-radius: 20px;
+}
+
+@media (max-width: 1199px) {
+  .aboutus-description {
+    text-align: center;
+  }
+}
